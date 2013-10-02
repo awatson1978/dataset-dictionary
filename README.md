@@ -387,3 +387,9 @@ Creative Commons Attribution-NonCommerical 3.0 Unported
 ![](http://i.creativecommons.org/l/by-nc/3.0/88x31.png)
 
 [Creative Commons Attribution-NonCommercial 3.0 Unported Licencse](http://creativecommons.org/licenses/by-nc/3.0/deed.en_US)
+
+------------------------
+### Support
+Found this package to be useful?  Consider tipping the package maintainer for their time!  
+
+[![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/awatson1978/)  
